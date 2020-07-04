@@ -1,5 +1,7 @@
 package hola;
 
+import javax.swing.JLabel;
+
 public class Oviparo extends Animal implements Vuelo{
 
 	
